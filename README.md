@@ -40,6 +40,7 @@ https://zaoldyeck.medium.com/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80
   <img src="demo/demo2.png" width="700"/>
 </div>
 
+
 #### 3. 必須在Render的Environment Variables設定兩個環境變數，分別是OPENAI_API_KEY和TELEGRAM_BOT_TOKEN。然後開始部屬，可能要花上一些時間。成功後複製自己的URL。例如：
 
 https://xxx.onrender.com/
